@@ -1,0 +1,5 @@
+{
+  "name": "SEC Fee Management",
+  "description": "A comprehensive fee management system for students and administrators of SEC. Allows students to view fee breakdowns, make payments, and receive receipts. Provides an admin panel to track payments and manage student data.",
+  "requestFramePermissions": []
+}
